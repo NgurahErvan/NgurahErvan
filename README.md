@@ -10,8 +10,9 @@ I'm currently active in contributing as Data Science Intern at PT Freeport Indon
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ngurahervan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ngurahervan&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/NgurahErvan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NgurahErvan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NgurahErvan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+

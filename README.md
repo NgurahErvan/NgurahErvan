@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi There! 👋 I'm Ervan.
 
-<!--
-**NgurahErvan/NgurahErvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A lifelong learner and Informatics Engineering student at Sepuluh Nopember Institute of Technology who specializes in machine learning and data analysis.
 
-Here are some ideas to get you started:
+I'm currently active in contributing as Data Science Intern at PT Freeport Indonesia and Machine Learning Cohort at Bangkit Academy 2024 Batch 1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning about Machine Learning for Data Scientist
+- 💬 Feel free to discuss with me about Machine Learning things
+- 📫 How to reach me: <a href="ngurahervan23@gmail.com">ngurahervan23@gmail.com</a>
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
